@@ -9,11 +9,11 @@ cd
 # 4 - What is a quick way to create a new folder?
 mkdir followed by name of folder
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-
+an empty folder returns nothing or an error; if files are present it will show the files listed in alphabetical order
 # 6 - What is a quick way to create a new file?
 use touch command 
 # 7 - Run 'git --version' in your terminal. What is the output?
-git version 2.15.0
+git version 2.15.0  
 # 8 - Why would you run the command 'git status'?
 to see the changes made to the directory that are in the staging area
 # 9 - What does the command 'git add .' do?
